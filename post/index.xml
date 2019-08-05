@@ -28,7 +28,7 @@
 3.下载并设置主题 主题网站:https://themes.gohugo.io/ 下载主题需要通过git,所以要先下载安装git 主题下载有时会下载到myblog目录下的themes文件夹中,有时不会,不会的下载时就在终端中先进入themes文件夹中再下载
 4.在本地启动个人博客 命令:hugo server -t m10c &amp;ndash;buildDrafts hugo server 开启hugo服务 -t 确定主题
 m10c 主题名 命令输入后访问 http://localhost:1313/ 这是默认生成的,输入命令后能在下面的一串字符中找到,如果1313端口被占用,会随机生使用别的端口
-5.写一篇文章 命令:hugo new post/blog.md 创建post/blog.</description>
+5.写一篇文章 命令:hugo new post/blog.md</description>
     </item>
     
   </channel>
